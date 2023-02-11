@@ -7,7 +7,7 @@
   
 <div>
   <a 
-     href="[https://www.linkedin.com/in/lucas-santos-gon%C3%A7alves-lima-a05a95203](https://www.linkedin.com/in/cassiano-medrado-2651781a4/)" 
+     href="https://www.linkedin.com/in/cassiano-medrado-2651781a4" 
      target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
