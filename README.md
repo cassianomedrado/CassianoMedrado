@@ -17,8 +17,6 @@
           </div>  
 </div>
 <p align="left">  </p>
-
-- 📫 How to reach me cassiano_medrado@hotmail.com
   
 ## 📫 Connect with me:
   
