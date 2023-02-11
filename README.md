@@ -1,4 +1,21 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Cassiano Medrado</h1>
+<div>
+    <h1>I'm a Full Stack Developer(Front-End/Back-End) with specialties in C# .Net | Angular | TypeScript Developer.</h1>
+        <div>
+            <p>
+                - 💻 I’m currently working at Atos Brazil
+            </p>
+            <p>
+                - 🎮 My hobby: I like to Play all kinds games.
+            </p>
+            <p>
+                - 🧠 I’m currently working with Full Stack(C#.Net/Angular/ASP.NETMVC/XAMARIN).
+            </p>
+            <p>
+                - 🔭 I’m looking for professional growth! 
+            </p>
+          </div>  
+</div>
 <p align="left">  </p>
 
 - 📫 How to reach me cassiano_medrado@hotmail.com
