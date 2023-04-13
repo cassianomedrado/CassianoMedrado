@@ -2,9 +2,6 @@
 <div>
     <h1>I'm a Full Stack Developer(Front-End/Back-End) with specialties in C# .Net | Angular | TypeScript Developer.</h1>
         <div>
-            /*<p>
-                - 💻 I’m currently working at Atos Brazil
-            </p> */
             <p>
                 - 🎮 My hobby: I like to Play all kinds games.
             </p>
