@@ -3,7 +3,6 @@
     <h1>I'm a Full Stack Developer(Front-End/Back-End) with specialties in C# .Net | Angular | TypeScript Developer.</h1>
         <div>
             <img src="https://komarev.com/ghpvc/?username=cassianomedrado&color=red" alt="Profile views" />
-            <img src="https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-    counter.workers.dev/user/cassianomedrado" alt="total star count in repositories" />
         </div>
         <div>
             <p>
